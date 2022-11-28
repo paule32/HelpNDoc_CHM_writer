@@ -1,2 +1,3 @@
 # HelpNDoc_CHM_writer
-create CHM Project Files that was created with HelpNDoc as HTML files.
+Create CHM Project Files that was created with HelpNDoc as HTML files.
+Download your copy on right side - Release link...
